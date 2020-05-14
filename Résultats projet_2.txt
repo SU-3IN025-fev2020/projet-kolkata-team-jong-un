@@ -1,0 +1,31 @@
+    Strategie 0 : tetu
+        Moyenne par tour :  6.0
+        Moyenne par itération :  0.18
+    
+    
+    
+    Strategie 1 : aleatoire uniforme
+        Moyenne par tour :  5.214
+        Moyenne par itération :  0.146
+    
+    
+    
+    Strategie 2 : au plus proche
+        Moyenne par tour :  4.393
+        Moyenne par itération :  0.246
+    
+    
+    
+    Strategie 3 : en fonction des autres
+        Moyenne par tour :  4.8
+        Moyenne par itération :  0.144
+    
+    
+    
+    Strategie 4 : au plus proche puis tetu
+        Moyenne par tour :  5.875
+        Moyenne par itération :  0.188
+    
+    
+    
+    
